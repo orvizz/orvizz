@@ -2,6 +2,8 @@
 
 📖 Software engineering student at University of Oviedo
 
+This is my personal GitHub account. My other account for university purposes is [uo295180](https://github.com/uo295180)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maarioorviz) 
 
