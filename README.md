@@ -53,6 +53,7 @@ For university-related repositories, check out my academic GitHub: [uo295180](ht
   <img src="https://leetcard.jacoblin.cool/maarioorviz?theme=dark"/>  
 </div>  
 
+![](https://komarev.com/ghpvc/?username=orvizz)
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=orvizz&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
